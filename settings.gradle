@@ -1,2 +1,5 @@
 rootProject.name = 'full-cycle-code-flix'
+include 'domain'
+include 'application'
+include 'infrastructure'
 
